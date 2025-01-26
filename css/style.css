@@ -16,9 +16,26 @@
 
 }
 
-/* SFONDO CENTRALE */
-.sfondocentrale {
+/* BOX CENTRALE */
+
+.boxcentralestretta {
+    width: 1400px;
+    height: 50px;
+    padding:25px 300px;
+    margin:25px 250px -4px;
     background-color: white;
+    border-radius: 4px;
+
+    
+}
+.boxcentrale {
+    width: 1400px;
+    height: 100px;
+    padding: 300px 300px;
+    margin:5px 250px;
+    background-color: white;
+
+    
 }
 
 
