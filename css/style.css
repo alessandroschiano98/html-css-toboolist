@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+
+    
+}
+/* LOGO + BANNER */
+
+.sfondobanner {
+    background-color: white;
+    width: 240px 240px;
+    height: 100px;
+    padding: 20px 30px 20px;
+
+}
+
+/* SFONDO CENTRALE */
+.sfondocentrale {
+    background-color: white;
+}
+
+
+/* SFONDO PAGINA TOTALE */
+body {
+    background-color: rgb(235, 235, 235);
+}
