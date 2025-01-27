@@ -1,5 +1,7 @@
 * {
-    box-sizing: border-box;
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
 }
 
 /* LOGO + BANNER */
@@ -42,7 +44,7 @@
 
 }
 
-.section {
+.addsection {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     font-weight: 400;
@@ -73,15 +75,15 @@ ul {
 }
 
 li {
-
-   font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 /* FORME E COLORE */
-
 .interalista {
-    margin: -300px -300px;
+    margin: -280px -260px;
 }
+
+
 
 
 .formacerchio1 {
