@@ -1,10 +1,5 @@
 * {
-    padding: 0px;
-    margin: 0px;
-    box-sizing:border-box;
-
-
-
+    box-sizing: border-box;
 }
 
 /* LOGO + BANNER */
@@ -28,6 +23,7 @@
     border-radius: 4px;
 
 }
+
 /* CONTENUTO BOX CENTRALE STRETTA */
 
 .task {
@@ -37,14 +33,15 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 13px;
     display: inline;
-    text-decoration:none;
-    border:1px solid hsl(202, 85%, 48%);
+    text-decoration: none;
+    border: 1px solid hsl(202, 85%, 48%);
     border-radius: 8px;
     padding: 8px;
-   
+
 
 
 }
+
 .section {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
@@ -53,36 +50,39 @@
     font-size: 13px;
     display: inline;
     text-decoration: none;
-    border:1px solid rgb(223, 221, 221);
+    border: 1px solid rgb(223, 221, 221);
     border-radius: 8px;
     padding: 8px;
- 
 }
 
 .boxcentrale {
     width: 1400px;
     height: 100px;
     padding: 300px 300px;
-    margin:5px 250px;
+    margin: 5px 250px;
     background-color: white;
 
 
-    
+
 }
+
+/* LISTE */
 
 ul {
     list-style: none;
-    margin: 5px 5px 5px;
 }
 
 li {
-    padding: 5px 5px 5px 5px;
+
+   font-family: sans-serif;
 }
 
+/* FORME E COLORE */
+
 .interalista {
-    padding: 1px 10px;
-    margin: -275px -255px;
+    margin: -300px -300px;
 }
+
 
 .formacerchio1 {
     box-sizing: 1px;
@@ -102,46 +102,46 @@ li {
 }
 
 .cerchiorosso {
-    color:red
+    color: red
 }
 
 .cerchioblu {
-    border:1px solid hsl(202, 85%, 48%);
+    border: 1px solid hsl(202, 85%, 48%);
     border-radius: 8px;
-    background-color:hsl(202, 85%, 48%);
+    background-color: hsl(202, 85%, 48%);
     padding: 3px;
 }
 
 .cerchioviola {
-    border:1px solid hsl(278, 75%, 57%);
+    border: 1px solid hsl(278, 75%, 57%);
     border-radius: 8px;
-    background-color:hsl(278, 75%, 57%);
+    background-color: hsl(278, 75%, 57%);
     padding: 3px;
 }
 
 .cerchioverdeacqua {
-    border:1px solid hsl(167, 48%, 64%);
+    border: 1px solid hsl(167, 48%, 64%);
     border-radius: 8px;
     background-color: hsl(167, 48%, 64%);
     padding: 3px;
 }
 
 .cerchioarancio {
-    border:1px solid hsl(27, 100%, 63%);
+    border: 1px solid hsl(27, 100%, 63%);
     border-radius: 8px;
     background-color: hsl(27, 100%, 63%);
     padding: 3px;
 }
 
 .cerchiofuxia {
-    border:1px solid hsl(318, 100%, 69%);
+    border: 1px solid hsl(318, 100%, 69%);
     border-radius: 8px;
     background-color: hsl(318, 100%, 69%);
     padding: 3px;
 }
 
 .cerchioverdeacido {
-    border:1px solid hsl(98, 100%, 73%);
+    border: 1px solid hsl(98, 100%, 73%);
     border-radius: 8px;
     background-color: hsl(98, 100%, 73%);
     padding: 3px;
@@ -151,7 +151,7 @@ li {
 
 
 /* SFONDO PAGINA TOTALE */
-    body {
-        background-color: rgb(235, 235, 235);
-        font-family: sans-serif;
-    }
+body {
+    background-color: rgb(235, 235, 235);
+    font-family: sans-serif;
+}
