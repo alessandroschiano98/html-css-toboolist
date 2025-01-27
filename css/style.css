@@ -10,17 +10,17 @@
     background-color: white;
     width: 240px 240px;
     height: 80px;
-    padding: 15px 40px 40px;
+    padding: 20px 30px 40px;
 
 }
 
 /* BOX CENTRALE */
 
 .boxcentralestretta {
-    width: 1400px;
-    height: 50px;
+    width: 80%;
+    height:50%;
     padding: 18px 40px;
-    margin: 45px 250px -4px;
+    margin: 0 auto;
     background-color: white;
     border-radius: 4px;
 
@@ -58,10 +58,9 @@
 }
 
 .boxcentrale {
-    width: 1400px;
-    height: 100px;
+    width: 75%;
     padding: 300px 300px;
-    margin: 5px 250px;
+    margin: 0 auto;
     background-color: white;
 
 
