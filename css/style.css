@@ -1,11 +1,12 @@
 * {
     padding: 0px;
     margin: 0px;
-    box-sizing: border-box;
+    box-sizing:border-box;
 
 
-    
+
 }
+
 /* LOGO + BANNER */
 
 .sfondobanner {
@@ -21,13 +22,43 @@
 .boxcentralestretta {
     width: 1400px;
     height: 50px;
-    padding:25px 300px;
-    margin:25px 250px -4px;
+    padding: 18px 40px;
+    margin: 45px 250px -4px;
     background-color: white;
     border-radius: 4px;
 
-    
 }
+/* CONTENUTO BOX CENTRALE STRETTA */
+
+.task {
+    background-color: hsl(202, 85%, 48%);
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    display: inline;
+    text-decoration:none;
+    border:1px solid hsl(202, 85%, 48%);
+    border-radius: 8px;
+    padding: 8px;
+   
+
+
+}
+.section {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    display: inline;
+    text-decoration: none;
+    border:1px solid rgb(223, 221, 221);
+    border-radius: 8px;
+    padding: 8px;
+ 
+}
+
 .boxcentrale {
     width: 1400px;
     height: 100px;
@@ -39,7 +70,8 @@
 }
 
 
+
 /* SFONDO PAGINA TOTALE */
-body {
-    background-color: rgb(235, 235, 235);
-}
+    body {
+        background-color: rgb(235, 235, 235);
+    }
