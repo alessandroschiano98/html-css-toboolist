@@ -102,19 +102,20 @@ li {
 .formacerchioverde {
     border: 1px solid green;
     border-radius: 15px;
-    padding: 0px 1px;
+    padding: 0px 2px;
+    margin: 5px;
+
 }
 
 .formacerchiorosso {
     border: 1px solid rgb(255, 0, 0);
     border-radius: 15px;
-    padding: 0px 1px;
+    padding: 0px 2px;
+    margin: 5px;
+
 
 }
 
-.dimensioniovale {
-
-}
 .segnoverde {
     color: green;
     border: 1px solid green(255, 0, 0);
