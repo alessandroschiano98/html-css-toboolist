@@ -35,7 +35,7 @@ main {
 
 
 .distanzascritte {
-    margin: 10px;
+    margin: 15px;
 }
 
 /* CONTENUTO BOX CENTRALE STRETTA */
@@ -74,7 +74,7 @@ main {
 .boxcentrale {
     width: 78%;
     padding: 300px;
-    margin: 5px 160px;
+    margin: 1px 160px;
     background-color: white;
 
 
@@ -126,46 +126,71 @@ li {
     border: 1px solid rgb(255, 0, 0);
 }
 
+
 .cerchioblu {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
     border: 1px solid hsl(202, 85%, 48%);
-    border-radius: 15px;
+    border-radius: 20px 20px 20px 20px;
     background-color: hwb(202 7% 11%);
-    padding: 5px 10px 5px;
+    padding: 2px 12px;
+    margin: 0;
+    color: white;
 }
 
 .cerchioviola {
-    border: 1px solid hsl(278, 100%, 67%);
-    border-radius: 15px;
-    background-color: hsl(278, 75%, 57%);
-    padding: 5px 10px 5px;
-}
-
-.cerchioverdeacqua {
-    border: 1px solid hsl(167, 48%, 64%);
-    border-radius: 15px;
-    background-color: hsl(167, 48%, 64%);
-    padding: 5px 10px 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border: 1px solid hsl(281, 93%, 27%);
+    border-radius: 20px 20px 20px 20px;
+    background-color: hsl(281, 93%, 27%);
+    padding: 2px 12px;
+    margin: 0;
+    color: white;
 }
 
 .cerchioarancio {
-    border: 1px solid hsl(27, 100%, 63%);
-    border-radius: 15px;
-    background-color: hsl(27, 100%, 63%);
-    padding: 5px 10px 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border: 1px solid hsl(30, 78%, 50%);
+    border-radius: 20px 20px 20px 20px;
+    background-color: hsl(30, 78%, 50%);
+    padding: 2px 12px;
+    margin: 0;
+    color: white;
+}
+
+.cerchioverdeacqua {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border: 1px solid hsl(167, 48%, 64%);
+    border-radius: 20px 20px 20px 20px;
+    background-color: hsl(167, 48%, 64%);
+    padding: 2px 12px;
+    margin: 0;
+    color: white;
 }
 
 .cerchiofuxia {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
     border: 1px solid hsl(318, 100%, 69%);
-    border-radius: 15px;
+    border-radius: 20px 20px 20px 20px;
     background-color: hsl(318, 100%, 69%);
-    padding: 5px;
+    padding: 2px 12px;
+    margin: 0;
+    color: white;
 }
 
 .cerchioverdeacido {
-    border: 1px solid hsl(98, 100%, 73%);
-    border-radius: 15px;
-    background-color: hsl(98, 100%, 73%);
-    padding: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border: 1px solid hsl(98, 77%, 38%);
+    border-radius: 20px 20px 20px 20px;
+    background-color:hsl(98, 77%, 38%);
+    padding: 2px 12px;
+    margin: 0;
+    color: white;
 }
 
 
