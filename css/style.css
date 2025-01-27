@@ -10,7 +10,7 @@
     background-color: white;
     width: 240px 240px;
     height: 80px;
-    padding: 20px 30px 40px;
+    padding: 15px 40px 40px;
 
 }
 
@@ -81,9 +81,8 @@ li {
 /* FORME E COLORE */
 .interalista {
     margin: -280px -260px;
+    padding: 5px;
 }
-
-
 
 
 .formacerchio1 {
