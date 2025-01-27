@@ -66,12 +66,39 @@
     margin:5px 250px;
     background-color: white;
 
+
     
 }
 
 ul {
     list-style: none;
     
+}
+
+.interalista {
+    padding: 1px 10px;
+    margin: -275px -255px;
+}
+
+.formacerchio1 {
+    box-sizing: 1px;
+    border: 1px solid green;
+    border-radius: 15px;
+    color: green;
+}
+
+.cerchioverde {
+    color: green;
+}
+
+.formacerchio2 {
+    box-sizing: 1px;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 15px;
+}
+
+.cerchiorosso {
+    color:red
 }
 
 
