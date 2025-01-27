@@ -15,18 +15,27 @@
 }
 
 main {
-    margin: 2%;
+    margin: 3%;
 }
 
 /* BOX CENTRALE */
 
 .boxcentralestretta {
-    width: 20px 30px 5px;
-    padding: 15px;
-    margin: 5px 160px;
+    width: 78%;
+    padding: 16px;
+    margin: 1px 160px;
     background-color: white;
     border-radius: 4px;
 
+}
+
+.contenutoboxstretta {
+    margin: 1px 30px;
+}
+
+
+.distanzascritte {
+    margin: 10px;
 }
 
 /* CONTENUTO BOX CENTRALE STRETTA */
@@ -47,17 +56,6 @@ main {
 
 }
 
-/* BOX CENTRALE GRANDE */
-
-.boxcentrale {
-    width: 79%;
-    padding: 300px 300px;
-    margin: 5px 160px;
-    background-color: white;
-
-
-
-}
 .addsection {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
@@ -69,6 +67,18 @@ main {
     border: 1px solid rgb(223, 221, 221);
     border-radius: 8px;
     padding: 8px;
+}
+
+/* BOX CENTRALE GRANDE */
+
+.boxcentrale {
+    width: 78%;
+    padding: 300px;
+    margin: 5px 160px;
+    background-color: white;
+
+
+
 }
 
 
@@ -84,72 +94,77 @@ li {
 
 /* FORME E COLORE */
 .interalista {
+    width:100%;
     margin: -280px -260px;
-    padding: 5px;
 }
 
 
-.formacerchio1 {
-    box-sizing: 1px;
+.formacerchioverde {
     border: 1px solid green;
     border-radius: 15px;
-    color: green;
+    padding: 0px 1px;
 }
 
-.cerchioverde {
-    color: green;
-}
-
-.formacerchio2 {
-    box-sizing: 1px;
+.formacerchiorosso {
     border: 1px solid rgb(255, 0, 0);
     border-radius: 15px;
+    padding: 0px 1px;
+
 }
 
-.cerchiorosso {
-    color: red
+.dimensioniovale {
+
+}
+.segnoverde {
+    color: green;
+    border: 1px solid green(255, 0, 0);
+}
+
+.segnorosso {
+    color: red;
+    border: 1px solid rgb(255, 0, 0);
 }
 
 .cerchioblu {
     border: 1px solid hsl(202, 85%, 48%);
-    border-radius: 8px;
-    background-color: hsl(202, 85%, 48%);
-    padding: 3px;
+    border-radius: 15px;
+    background-color: hwb(202 7% 11%);
+    padding: 5px 10px 5px;
 }
 
 .cerchioviola {
-    border: 1px solid hsl(278, 75%, 57%);
-    border-radius: 8px;
+    border: 1px solid hsl(278, 100%, 67%);
+    border-radius: 15px;
     background-color: hsl(278, 75%, 57%);
-    padding: 3px;
+    padding: 5px 10px 5px;
 }
 
 .cerchioverdeacqua {
     border: 1px solid hsl(167, 48%, 64%);
-    border-radius: 8px;
+    border-radius: 15px;
     background-color: hsl(167, 48%, 64%);
-    padding: 3px;
+    padding: 5px 10px 5px;
 }
 
 .cerchioarancio {
     border: 1px solid hsl(27, 100%, 63%);
-    border-radius: 8px;
+    border-radius: 15px;
     background-color: hsl(27, 100%, 63%);
-    padding: 3px;
+    padding: 5px 10px 5px;
 }
 
 .cerchiofuxia {
     border: 1px solid hsl(318, 100%, 69%);
-    border-radius: 8px;
+    border-radius: 15px;
     background-color: hsl(318, 100%, 69%);
-    padding: 3px;
+    padding: 5px;
 }
 
 .cerchioverdeacido {
     border: 1px solid hsl(98, 100%, 73%);
-    border-radius: 8px;
+    border-radius: 15px;
     background-color: hsl(98, 100%, 73%);
-    padding: 3px;
+    padding: 5px;
 }
 
 
