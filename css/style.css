@@ -105,12 +105,49 @@ li {
     color:red
 }
 
-.cerchiol2 {
+.cerchioblu {
     border:1px solid hsl(202, 85%, 48%);
     border-radius: 8px;
     background-color:hsl(202, 85%, 48%);
     padding: 3px;
 }
+
+.cerchioviola {
+    border:1px solid hsl(278, 75%, 57%);
+    border-radius: 8px;
+    background-color:hsl(278, 75%, 57%);
+    padding: 3px;
+}
+
+.cerchioverdeacqua {
+    border:1px solid hsl(167, 48%, 64%);
+    border-radius: 8px;
+    background-color: hsl(167, 48%, 64%);
+    padding: 3px;
+}
+
+.cerchioarancio {
+    border:1px solid hsl(27, 100%, 63%);
+    border-radius: 8px;
+    background-color: hsl(27, 100%, 63%);
+    padding: 3px;
+}
+
+.cerchiofuxia {
+    border:1px solid hsl(318, 100%, 69%);
+    border-radius: 8px;
+    background-color: hsl(318, 100%, 69%);
+    padding: 3px;
+}
+
+.cerchioverdeacido {
+    border:1px solid hsl(98, 100%, 73%);
+    border-radius: 8px;
+    background-color: hsl(98, 100%, 73%);
+    padding: 3px;
+}
+
+
 
 
 /* SFONDO PAGINA TOTALE */
