@@ -257,6 +257,23 @@ ul {
     display: inline block;
 }
 
+/* FOOTER */
+
+footer {
+    margin:5px;
+    padding:5px 115px;
+}
+
+section.sfondofooter {
+    background-color: white;
+    width: 58%;
+    padding: 20px;
+    margin: -48px 195px;
+    background-color: white;
+    border-radius: 55px 0px 225px 0px;
+    font-size: 15px;
+}
+
 
 
 
