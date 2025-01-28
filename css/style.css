@@ -28,7 +28,7 @@
     padding: 16px;
     margin: 1px 160px;
     background-color: white;
-    border-radius: 4px;
+    border-radius: 0px 0px 225px 0px;
 
 }
 
@@ -58,14 +58,14 @@
 }
 
 .bottone-task {
-    background-color: hsl(202, 85%, 48%);
+    background-color: hsl(0, 0%, 100%);
     color: rgb(0, 0, 0);
     font-weight: 400;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 13px;
     display: inline;
     text-decoration: none;
-    border: 1px solid hsl(202, 85%, 48%);
+    border: 1px solid rgb(223, 221, 221);
     border-radius: 8px;
     padding: 8px;
 
@@ -92,6 +92,7 @@
     padding: 300px;
     margin: 2px 160px;
     background-color: white;
+    border-radius: 0px 125px 225px 25px;
 
 
 
@@ -104,14 +105,13 @@ ul {
     list-style: none;
 }
 
-li {
-    font-family: sans-serif;
-}
+
 
 /* FORME E COLORE */
 .interalista {
     width:100%;
     margin: -270px -260px;
+    display: inline block;
     
 }
 
@@ -121,6 +121,7 @@ li {
     border-radius: 15px;
     padding: 0px 2px;
     margin: 5px;
+    display: inline block;
 
 }
 
@@ -129,6 +130,7 @@ li {
     border-radius: 15px;
     padding: 0px 2px;
     margin: 5px;
+    display: inline block;
 
 
 }
@@ -137,14 +139,20 @@ li {
     font-size: 10px;
     color: green;
     border: 1px solid green(255, 0, 0);
+    display: inline block;
 }
 
 .segnorosso {
     font-size: 10px;
     color: red;
     border: 1px solid rgb(255, 0, 0);
+    display: inline block;
 }
 
+.cerchioblu:hover {
+    background-color: red;
+    color: white;
+}
 
 .cerchioblu {
     font-family:Arial, Helvetica, sans-serif;
@@ -155,6 +163,13 @@ li {
     padding: 2px 12px;
     margin: 0;
     color: white;
+    display: inline block;
+}
+
+.cerchioviola:hover {
+    background-color: red;
+    color: white;
+
 }
 
 .cerchioviola {
@@ -165,6 +180,12 @@ li {
     background-color: hsl(281, 93%, 27%);
     padding: 2px 12px;
     margin: 0;
+    color: white;
+    display: inline block;
+}
+
+.cerchioarancio:hover {
+    background-color: red;
     color: white;
 }
 
@@ -177,6 +198,12 @@ li {
     padding: 2px 12px;
     margin: 0;
     color: white;
+    display: inline block;
+}
+
+.cerchioverdeacqua:hover {
+    background-color: red;
+    color: white;
 }
 
 .cerchioverdeacqua {
@@ -188,8 +215,14 @@ li {
     padding: 2px 12px;
     margin: 0;
     color: white;
+    display: inline block;
 }
 
+.cerchiofuxia:hover {
+    background-color: red;
+    color: white;
+
+}
 .cerchiofuxia {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 9px;
@@ -198,6 +231,12 @@ li {
     background-color: hsl(318, 100%, 69%);
     padding: 2px 12px;
     margin: 0;
+    color: white;
+    display: inline block;
+}
+
+.cerchioverdeacido:hover {
+    background-color: red;
     color: white;
 }
 
@@ -210,6 +249,7 @@ li {
     padding: 2px 12px;
     margin: 0;
     color: white;
+    display: inline block;
 }
 
 
