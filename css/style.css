@@ -53,7 +53,6 @@ main {
     padding: 8px;
 
 
-
 }
 
 .addsection {
@@ -74,7 +73,7 @@ main {
 .boxcentrale {
     width: 78%;
     padding: 300px;
-    margin: 1px 160px;
+    margin: 2px 160px;
     background-color: white;
 
 
@@ -95,7 +94,8 @@ li {
 /* FORME E COLORE */
 .interalista {
     width:100%;
-    margin: -280px -260px;
+    margin: -270px -260px;
+    
 }
 
 
@@ -129,7 +129,7 @@ li {
 
 .cerchioblu {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 9px;
     border: 1px solid hsl(202, 85%, 48%);
     border-radius: 20px 20px 20px 20px;
     background-color: hwb(202 7% 11%);
@@ -140,7 +140,7 @@ li {
 
 .cerchioviola {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 9px;
     border: 1px solid hsl(281, 93%, 27%);
     border-radius: 20px 20px 20px 20px;
     background-color: hsl(281, 93%, 27%);
@@ -151,7 +151,7 @@ li {
 
 .cerchioarancio {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 9px;
     border: 1px solid hsl(30, 78%, 50%);
     border-radius: 20px 20px 20px 20px;
     background-color: hsl(30, 78%, 50%);
@@ -162,7 +162,7 @@ li {
 
 .cerchioverdeacqua {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 9px;
     border: 1px solid hsl(167, 48%, 64%);
     border-radius: 20px 20px 20px 20px;
     background-color: hsl(167, 48%, 64%);
@@ -173,7 +173,7 @@ li {
 
 .cerchiofuxia {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 9px;
     border: 1px solid hsl(318, 100%, 69%);
     border-radius: 20px 20px 20px 20px;
     background-color: hsl(318, 100%, 69%);
@@ -184,7 +184,7 @@ li {
 
 .cerchioverdeacido {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 9px;
     border: 1px solid hsl(98, 77%, 38%);
     border-radius: 20px 20px 20px 20px;
     background-color:hsl(98, 77%, 38%);
