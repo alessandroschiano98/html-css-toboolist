@@ -4,7 +4,8 @@
     margin: 0;
 }
 
-/* LOGO + BANNER */
+/* -LOGO + BANNER */
+
 
 .sfondobanner {
     background-color: white;
@@ -14,11 +15,13 @@
 
 }
 
+
+
+/* (main) BOX CENTRALE */
+
 main {
     margin: 3%;
 }
-
-/* BOX CENTRALE */
 
 .boxcentralestretta {
     width: 78%;
@@ -117,11 +120,13 @@ li {
 }
 
 .segnoverde {
+    font-size: 10px;
     color: green;
     border: 1px solid green(255, 0, 0);
 }
 
 .segnorosso {
+    font-size: 10px;
     color: red;
     border: 1px solid rgb(255, 0, 0);
 }
